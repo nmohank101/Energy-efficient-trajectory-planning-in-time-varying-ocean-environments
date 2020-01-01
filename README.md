@@ -1,0 +1,2 @@
+# Energy-efficient-trajectory-planning-in-time-varying-ocean-environments
+We consider the problem of online trajectory design under time-varying environments. We formulate the general trajectory optimization problem within the framework of time-varying constrained convex optimization and propose a novel version of online gradient ascent algorithm that guarantees sublinear offline regret up to the pathlength of the offline solution, cumulative gradient and error in gradient variations. 
