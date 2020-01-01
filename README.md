@@ -6,4 +6,4 @@ In this repository we provide MATLAB implementations to the state-of-the-art ene
 Run main.m file. 
 
 
-
+I acknowledge the support of Dylan Jones (https://scholar.google.com/citations?user=BaifoQoAAAAJ&hl=en) and Shruti Joshi (https://shrutij01.github.io/) in creating this repository. 
